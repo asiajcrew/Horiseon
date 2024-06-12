@@ -26,4 +26,4 @@ asiacrew1@gmail.com
 * 0.1
     * Initial Release
 
-![Horiseon website screenshot](urban-octo-telegram/Develop/assets/images/Horiseon-screenshot.png)
+![Horiseon website screenshot](assets/images/Horiseon-screenshot.png)
