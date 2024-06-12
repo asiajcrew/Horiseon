@@ -12,6 +12,10 @@ This site contains helpful marketing information to assist companies with increa
 
 * Windows 10
 
+### Deployed site
+
+* https://asiajcrew.github.io/Practice-Horiseon/
+
 ## Help
 
 If site does not load, exit the window then attempt to access the site again. If problem perist, check that your device has a strong signal to internet.
